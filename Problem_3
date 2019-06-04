@@ -1,0 +1,19 @@
+## Practice problem 3
+Q. Below is an example of substring and string, now your job is find how many times the substring repeat in the string?
+substring = 'abc'
+string = 'kbcgabchtcdabclm'
+the answer is 2.
+
+The code should pass all the test that would implement while testing.
+
+``` # python code snippet to start in python 3.
+    
+    string = input("")
+    substring =input("")
+    
+    def checkSubstring(string,substring):
+         " Complete part of the code "
+         
+         return 
+    
+```
