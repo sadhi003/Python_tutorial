@@ -1,0 +1,9 @@
+### Problem_2
+Q. You saved your daily expenditure of last year in a list. Assume the month size vary from 28 to 31. Print your expenditure of last 3 days 
+in any month as a combination of last 3rd day and last 2nd day. Also last 2nd day and last day. For example,
+
+feb = [1,...26,27,28]
+
+input : expd = [...,6.50, 11.54, 34.0]
+output: "Last 3rd day and 2nd day expd is [6.50, 11.54")
+        "Last 2nd day and last day expd is [11.54, 34.0]"
