@@ -1,0 +1,5 @@
+Problem 5 
+Check two string where first string can be made from second string by reshuffling or not?
+For example;
+
+string1 = "Slot machines" string2 = "Cash lost in me"
