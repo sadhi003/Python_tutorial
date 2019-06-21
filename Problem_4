@@ -5,3 +5,14 @@ Reverse a string: Take a string as an input and the output of your program is th
 input= "WhyFoxIsBad"
 output = "daBsIxoFyhW"
 
+def string_reverser(input_string):
+   """
+   input 
+   output
+   """
+   pass
+ 
+# testing
+print ("Pass" if ('netra'==string_reverser('arten')) else "Fail")
+print ("Pass" if ('my name is whoop' == string_reverser('poohw si eman my')) else "Fail")
+
