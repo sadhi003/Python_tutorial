@@ -1,4 +1,4 @@
-## Practice problem 3
+## Practice problem 3, string problem
 Q. Below is an example of substring and string, now your job is find how many times the substring repeat in the string?
 substring = 'abc'
 string = 'kbcgabchtcdabclm'
